@@ -1,5 +1,5 @@
 {
-      "name": "Daisy X",
+      "name": "aira",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "DaisyX"
       ],   
-   "repository": "https://github.com/InukaAsith/DaisyX",
+   "repository": "https://github.com/Mr-SHRLCK/aira",
    "addons": [
       {
          "options": {
@@ -196,5 +196,5 @@
       "daisy"
    ],
    "name": "Liza Snowgirl",
-   "repository": "https://github.com/Infinity-bots/lizasnowgirl"
+   "repository": "https://github.com/MR-SHRLCK/aira"
 }
