@@ -21,4 +21,4 @@ __help__ = """
 ⚠ READ FROM THE TOP ⚠
 """
 
-__mod_name__ = "Captcha ♞"
+__mod_name__ = "Captcha"
