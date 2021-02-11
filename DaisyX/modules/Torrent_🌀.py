@@ -3,4 +3,4 @@ __help__ = """
 If you are still messed up send `/helptorrent` in pm for the tutorial !
 """
 
-__mod_name__ = "Torrent 🌀"
+__mod_name__ = "Torrent"
