@@ -4,4 +4,4 @@ __help__ = """
 """
 
 
-__mod_name__ = "Image2Text 📷"
+__mod_name__ = "Image2Text"
